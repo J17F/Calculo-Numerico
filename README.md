@@ -1,4 +1,4 @@
 # Calculo-Numerico
-Repositorio para la materia de Calculo Numerico
-seccion 0520
+Repositorio de la materia de Calculo Numerico
+Seccion 0520
 Profesor Edgar Decena
