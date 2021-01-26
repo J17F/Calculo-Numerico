@@ -5,5 +5,6 @@
 
 -Profesor Edgar Decena
 
-probando vscode con git/github
-segunda prueba
+**pruebas importantes**
+
+segunda prueba importante
